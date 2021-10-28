@@ -1,2 +1,2 @@
-# teste4
-teste 4 khcbcqejkncelcam aasa
+# Exercise 1
+This notebook corresponds to a sunspot detection algorithm  
