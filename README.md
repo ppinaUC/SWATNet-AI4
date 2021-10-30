@@ -1,4 +1,3 @@
 # Exercises
-Exercise 1: Sunspot detection algorithm based on mathematical morphology operators 
-Exercise 2: Facular regions detection based on mathematical morphology operators
+Algorithms based on mathematical morphology algorithms to detect sunspots (exercise 1) and facular regions (exercise 2).
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ppinaUC/SWATNet-AI4/master?labpath=sunspots.ipynb)
